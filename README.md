@@ -40,9 +40,12 @@ https://user-images.githubusercontent.com/89634002/133730822-dfd72913-d4fb-4a9c-
   https://user-images.githubusercontent.com/89634002/133731748-e33fd915-2ea5-433a-aa25-378e88dfbe5f.png
  
 # Features
+
 ・ provisional registration / definitive registration (In both of these processes, E-mail is sent automatically)
+
 ・ Log-in / Log-out system
-・ Internet forum (Displayed forum depends on whether the user is a student or a worker)
+
+・ Internet forum (Displayed forum depends on the user's occupation)
  
 # Requirement
  
