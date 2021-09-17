@@ -22,6 +22,7 @@ https://user-images.githubusercontent.com/89634002/133730861-e843c2c3-ab80-4821-
 https://user-images.githubusercontent.com/89634002/133730822-dfd72913-d4fb-4a9c-bd09-59d7f67c8acd.png
 
 【REGISTRATION PROCESS】
+
 ◎Provisional Registration Form: 
   https://user-images.githubusercontent.com/89634002/133731899-6525d931-fe83-44aa-99d3-c4d7e0bd0715.png
 
