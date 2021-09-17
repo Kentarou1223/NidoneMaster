@@ -22,16 +22,20 @@ https://user-images.githubusercontent.com/89634002/133730861-e843c2c3-ab80-4821-
 https://user-images.githubusercontent.com/89634002/133730822-dfd72913-d4fb-4a9c-bd09-59d7f67c8acd.png
 
 【REGISTRATION PROCESS】
-Provisional Registration Form: 
+◎Provisional Registration Form: 
   https://user-images.githubusercontent.com/89634002/133731899-6525d931-fe83-44aa-99d3-c4d7e0bd0715.png
-Provisional Registration Mail:
+
+◎Provisional Registration Mail:
   https://user-images.githubusercontent.com/89634002/133731522-0c295f48-42a3-404e-b8d9-5160b90cae5b.png
-Registration Form:
+
+◎Registration Form:
   https://user-images.githubusercontent.com/89634002/133731429-700c66fa-ddb2-4ab8-849d-e50ec905564e.png
   https://user-images.githubusercontent.com/89634002/133731452-19dba2de-0dea-4d7b-b176-e71e2e27b584.png
-Registration Mail:
+
+◎Registration Mail:
   https://user-images.githubusercontent.com/89634002/133731789-ec07a82d-22d9-4d39-a763-d74df7f5c6b8.png
-Login: 
+
+◎Login: 
   https://user-images.githubusercontent.com/89634002/133731748-e33fd915-2ea5-433a-aa25-378e88dfbe5f.png
 
 # DEMO
