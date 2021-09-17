@@ -8,8 +8,11 @@ You can schedule your day till you go to your office or school and make a post o
 
 ＜page overview＞
 HOME：https://user-images.githubusercontent.com/89634002/133730948-f36375e2-d39e-4224-9414-1995cd7bc643.png
+
 ABOUT：https://user-images.githubusercontent.com/89634002/133730892-4da31376-1bb9-49eb-abf8-ae4492fcc62a.jpg
+
 SCHEDULE:https://user-images.githubusercontent.com/89634002/133730861-e843c2c3-ab80-4821-95d6-0fd0360b6bf7.jpg
+
 FORUM：https://user-images.githubusercontent.com/89634002/133730822-dfd72913-d4fb-4a9c-bd09-59d7f67c8acd.png
 
 <registration process>
