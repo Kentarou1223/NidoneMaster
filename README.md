@@ -16,7 +16,7 @@ https://user-images.githubusercontent.com/89634002/133730892-4da31376-1bb9-49eb-
 
 ◎SCHEDULE: 
 https://user-images.githubusercontent.com/89634002/133730861-e843c2c3-ab80-4821-95d6-0fd0360b6bf7.jpg 
-※I am in the process of making this.
+※in the process of making this.
 
 ◎FORUM: 
 https://user-images.githubusercontent.com/89634002/133730822-dfd72913-d4fb-4a9c-bd09-59d7f67c8acd.png
@@ -38,14 +38,11 @@ https://user-images.githubusercontent.com/89634002/133730822-dfd72913-d4fb-4a9c-
 
 ◎Login: 
   https://user-images.githubusercontent.com/89634002/133731748-e33fd915-2ea5-433a-aa25-378e88dfbe5f.png
-
-# DEMO
- 
-"hoge"の魅力が直感的に伝えわるデモ動画や図解を載せる
  
 # Features
- 
-"hoge"のセールスポイントや差別化などを説明する
+・ provisional registration / definitive registration (In both of these processes, E-mail is sent automatically)
+・ Log-in / Log-out system
+・ Internet forum (Displayed forum depends on whether the user is a student or a worker)
  
 # Requirement
  
