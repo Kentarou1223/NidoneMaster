@@ -6,21 +6,21 @@
 
 You can schedule your day till you go to your office or school and make a post on the message board freely, which must make it easy for you to start the day.
 
-＜page overview＞
+【PAGE OVERVIEW】
 
-HOME：
+<HOME>
 https://user-images.githubusercontent.com/89634002/133730948-f36375e2-d39e-4224-9414-1995cd7bc643.png
 
-ABOUT：
+<ABOUT>
 https://user-images.githubusercontent.com/89634002/133730892-4da31376-1bb9-49eb-abf8-ae4492fcc62a.jpg
 
-SCHEDULE:
+<SCHEDULE> I am now
 https://user-images.githubusercontent.com/89634002/133730861-e843c2c3-ab80-4821-95d6-0fd0360b6bf7.jpg
 
-FORUM：
+<FORUM>
 https://user-images.githubusercontent.com/89634002/133730822-dfd72913-d4fb-4a9c-bd09-59d7f67c8acd.png
 
-<registration process>
+【REGISTRATION PROCESS】
 Provisional Registration Form: 
   https://user-images.githubusercontent.com/89634002/133731899-6525d931-fe83-44aa-99d3-c4d7e0bd0715.png
 Provisional Registration Mail:
