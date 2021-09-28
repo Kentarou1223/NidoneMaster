@@ -7,6 +7,9 @@
 You can schedule your day till you go to your office or school and make a post on the message board freely, which must make it easy for you to start the day.
 
 【PAGE OVERVIEW】
+# You can access from here↓
+# https://tech-base.net/tb-230222/mission_6-02-HOME.php
+
 
 ◎HOME: 
 https://user-images.githubusercontent.com/89634002/133730948-f36375e2-d39e-4224-9414-1995cd7bc643.png
