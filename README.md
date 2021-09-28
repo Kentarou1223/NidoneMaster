@@ -8,7 +8,8 @@ You can schedule your day till you go to your office or school and make a post o
 
 【PAGE OVERVIEW】
 # You can access from here↓
-# https://tech-base.net/tb-230222/mission_6-02-HOME.php
+# LOGIN/REGISTRATION：https://tech-base.net/tb-230222/mission_6-02-login.php 
+# PAGE：https://tech-base.net/tb-230222/mission_6-02-HOME.php
 
 
 ◎HOME: 
